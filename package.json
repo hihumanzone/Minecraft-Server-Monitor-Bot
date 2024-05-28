@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "fs": "^0.0.1-security",
+    "mcping-js": "*",
+    "undici": "*"
+  }
+}
