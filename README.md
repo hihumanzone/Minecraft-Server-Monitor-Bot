@@ -41,23 +41,23 @@ Welcome to the Minecraft Server Monitor Bot! This bot helps you monitor the stat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/minecraft-server-monitor-bot.git
-    cd minecraft-server-monitor-bot
+    git clone https://github.com/hihumanzone/Minecraft-Server-Monitor-Bot.git
+    cd Minecraft-Server-Monitor-Bot
     ```
 
 2. Install the required dependencies:
 
     ```bash
-    npm install
+    npm install discord.js mcping-js undici fs
     ```
 
     or
 
     ```bash
-    yarn install
+    yarn install discord.js mcping-js undici fs
     ```
 
-3. Create a `config.json` file (this will be managed by the bot automatically).
+3. Create a `config.json` file (only, this will be managed by the bot automatically).
 
 4. Add your bot token to the script:
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For issues or support, please open an issue on the [GitHub repository](https://github.com/yourusername/minecraft-server-monitor-bot/issues).
+For issues or support, please open an issue on the [GitHub repository](https://github.com/hihumanzone/Minecraft-Server-Monitor-Bot/issues).
 
 ---
 
